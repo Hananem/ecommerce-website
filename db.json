@@ -1,0 +1,1474 @@
+{
+    "featured" : [
+       {
+         "id":"wqsze",
+           "brand":"Belkin",
+           "name":" Wireless Headphone  ",
+           "category":"Headphone",
+           "colors":[
+            "#f0a3cd",
+            "#22D3EF",
+                 "#000",
+                 "#fff"
+           ],
+           "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+          "price":1200.00,
+          "shipping":"true",
+      "stock":"4",
+      "stars":"4",
+      "reviews":"24",
+           "image": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa38fc5ab/images/hi-res/a/138878202_AUD002-PINK_SoundformMini_OnEarWirlessHeadphones_Ortho_WEB.png?sw=700&sh=700&sm=fit",
+           "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dwa38fc5ab/images/hi-res/a/138878202_AUD002-PINK_SoundformMini_OnEarWirlessHeadphones_Ortho_WEB.png?sw=700&sh=700&sm=fit"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6508/6508315cv11d.jpg"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"https://www.digitec.ch/im/Files/4/5/6/5/8/4/2/1/639046_01.jpg?impolicy=ProductTileImage&resizeWidth=358&resizeHeight=358&cropWidth=358&cropHeight=358&resizeType=downsize&quality=high"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://www.central.co.th/adobe/dynamicmedia/deliver/dm-aid--8a42c1b8-daf5-42d9-b555-d113cd4973c3/belkin-soundform%E2%84%A2miniwirelesson-earheadphonesforkidswhite-mkp1025345-1.jpg?preferwebp=true&quality=60&width=550"
+            }
+           ],
+           "featured": true
+       },
+   
+       {
+          "id":"zsdc",
+           "brand":"TW-E3B",
+           "name":"TW-E3B Bluetooth Earbuds",
+           "category":"Earbuds",
+           "colors":[
+                 "#000",
+                 "#d3abdb",
+                 "#228554",
+                 "#f0a3cd"
+           ],
+           "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+          "price": 1400.00,
+          "shipping":"true",
+      "stock":"4",
+      "stars":"3.8",
+      "reviews":"33",
+          "image": "https://www.yamaha.com/yamahavgn/PIM/Images/01-TW-E3B-Black-03_1fb09687cc38d06d4cb325ec931685c4.jpg",
+          "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"https://www.yamaha.com/yamahavgn/PIM/Images/01-TW-E3B-Black-03_1fb09687cc38d06d4cb325ec931685c4.jpg"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"https://www.ooberpad.com/cdn/shop/products/YamahaTW-E3B_pink.jpg?v=1656265933"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"https://www.yamaha.com/yamahavgn/PIM/Images/04-TW-E3B-Purple-03_db2a51a8549dbc8f797b3278bc4bb7ed.jpg"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://www.yamaha.com/yamahavgn/PIM/Images/05-TW-E3B-Blue-03_38784459597e8ddf0471c760d9e79270.jpg"
+            }
+           ],
+          "featured": true
+          
+          
+       },
+   
+       {
+           "id":"uyrez",
+           "brand":"Philips",
+           "name":"Philips Security Camera",
+           "category":"Camera",
+           "colors":[
+                 "#fff"
+           ],
+        "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+           "price":2500.00,
+
+          "shipping":"true",
+      "stock":"200",
+      "stars":"4.2",
+      "reviews":"24",
+          "image": "data:image/jpeg;base64,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",
+          "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0QDRAPDw8NDw8PDg0NDQ0PDw8PDQ0OFREWFhURFRMYHTQhGBomHRMTLTUhMSkvLjEvFx8zOT8sNyktLisBCgoKDQ0NDg0NDi0ZFR0tKy0rLC0rKysrKy0rKysrKzcrKy0uLi0tKy0tKy0tKys3LSsrNysrKy0tLSsrKys3K//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAAAwECBAUGBwj/xABCEAACAQMABQYIDAUFAAAAAAAAAQIDBBEFEiExUQYTQXGRoSIyQmFygbHRBxQjM1JTYnOSorLBFWOC4fAkRJPC0v/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKay4oCoLdZcV2lwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALXICrZbllUi4CPUKOmSgDHlTI3Frc2jKkjW6Q0pbUNlWrCMt+ptlPHox2kGRG5kt+1d5kUq0Zbn6uk5ifKzR+cOrJed0auO6JmWl/RqrWoVadRLe4STcXwa3oo34MS1u1LwZb+h8TLAAAAAAAAAAAAAAAAAAAAAAAAAtnLBSCI08vPYTRIKgAoAEdxWUISnLdCMpvqSy/YBz3KbTcoN0KLxPC52ot9NNZUY/aa6ehNdLyuOdFyeEsyk+ttvpyZdWbk3KW2UpOcnxk3lmDf1406cpval0dMm9iXreANfdw8xyum5VaXy9vOdKvSTlTqU5OM10uOVvTwsrc+kybi8r15PVb1dvitqOPMk93nZrbynWSa1m89Em5Z7wO4+Dn4SI32ra3erTvEvk6kVq07rHBeTPzbn0Y3HrGjrvXWq/Gj3rifGdGVShWw24yjJPWi2pRaeYzjLoaeHk+juQHKh3dpTrtrn6UuauUtilNJeElwlFp+ZtroA9KBbTmpRUluaTXUy4AAAAAAAAAAAAAAAAAAABHXliPXsJDHun4q62BWmSJkMGSJkEmRkjyU1gJNY13KCpiyuX0K2rt+ioNvuyZjkQXVONSnOnLxakJ05ejJNP2geZTvo8TQcpb7NJJPfN5/45478HCaW5Q31tXq21SMecoValCb8JZlCTi2lweO81FxyiuptazjhSjLCW/Dzgo9Bsb2jSo605QisJ5k8Ld/nacnpfTvP3Cp27cYp62uvLktuEuGz1+2KrCndUo4lqyj4jbwsPyHwa6C/RehpUp68k8pNKUtVQgn07HtAxeU1DKhVxhyinJdf98nWfAzpFxuqlHPg1qL2fbpvWj+WVTtOY5SXEeb1V9mEeLS2t+ztNh8FSf8AEqLXRKtnq+Lz94H0zyduNai4vfTlj+l7V+5tTluSlb5apHjT1vWpL/0dSAAAAAAAAAAAAAAAAAAAAxLx+FHqZlmJf+S/O0BSLL8kEJF+sRUmsUbLNYo5BFzkWSkWuRZKQV4n8O/JKSqLStCOYT1Kd6l5E0lGFbqaxF+dR4njp9i3VKFSEqdSMZ05xlCpTmlKE4NYcWnvWDwbl58FdxbynX0fGVxbNuTt1mVzbrfhLfUj5/G45xl1HnFvcTg8xeOJmrSs8eKlwxhfsa6UWnhppp4aexpreiSS2Z4vu4ecBXqym8yfmS6EuCPR/gksdtS46IJ0195LDfZH9SOT5N8l7m9n4EXCknidaSepH3vzb/aewaMsaNpbwt6OdSCe1+NOT2ynLzt+7cgOs5IzzeP7qftidscPyBi5V60+iNNQ9cpZ/wCp3AAAAAAAAAAAAAAAAAAAACG8hmm+K8JeomAGphMkUiK4p6k2uh7Y9QUiKl1ijkWaxRsCrkRykGyOTApORBUmXTkY1WQGq0xoSxuXrXFrb1pbtedOLqY9Pf3mkXJLRNN60LK3z9pSmuyTaOjrzNZdVQjHrVIxSjFKMUsRjFJRiuCS3GruLgreVyHQtjO7uoUY5w5ZnLojBb32AekcgLNwsucksSrzc/6Fsj+/adMWUKUYQjCKxGEYxiuCSwi8oAAAAAAAAAAAAAAAAAAAAAMW+jBx2tJrbHia6KMurFOUs8WjFdhUzrQqYz5L2x7CCoZXmLheTCXU8FrjW6aT9TQVbJkUmSS5z6mfd7yKXOfU1O73gQ1GYtVkl1Vrx8W0uKnougv1TRqq9xpF+Jo2ovvLi3j+lsC+uzVXSZLUhpeX+2sqa/mXUs90CxaPvW/lK1hTXCDqVX7V7ANPXtnJnofIbQ9K2o6zcXXqrM15UI9EPf8A2OYhYUqc1Odec3F5UYQ1Y5/ftMuenmpRhSpvLlFc5N7VtxlRXvCPRAAUAAAAAAAAAAAAAAAAAAAAAGvn48uskjIjrfOS617C5EVJrlHMtZawEpEUmXsjkBFMxa0EzKmQVANdWt0YdWikbOqYNYDW14kFtBOtSXGrTX5kZVci0cs3NBfzqX6kEemgAoAAAAAAAAAAAAAAAAAAAAAMCv8AOP1ewqhc/OPqQRBVlrLmUCrJEciSRHICKRBUJ5EFQDFqmDVM6qYFYDArlNELN3Q++pvsYrkmgVm9oennsTCPRgAUAAAAAAAAAAAAAAAAAAAAAGFdfOepFIl12vDXo/uyiIBQuKNBWhuPjma8ouaUZV9RPD1o6i5vUjjOdbO0Otd85hqSXO01iMdaGpzLbxJxXlY9ew3bLJBHO1bq6dJOPO63xVuXyTT59Tgtzjvw5bN2/gW13dRccupJc5LFNLwubcljWqRjq5XhbODN9MgqAYlYwKxn1TArBWBXJ+TazfUeub/JIgrmXyWj/rqfmVR/kYR3wAKAAAAAAAAAAAAAAAAAAAAADFu14SfmaLUS3S8Hq2mPGRBIUZTJa2FGRyLslsmBFMgqE02Y9RgY1UwK5mVpGuuKgRiVjackaWbrW+jTm+1pfuaWtWR0vJOOpTlUe+o1q+gun1t9yKOqBjxqksZAXgoioAAAAAAAAAAAAAAAAAAAWzimsM1taxrReacoyX0J5T9Ul7jaADSupXj41Gp1xxNdzz3FktIwXja8fShOPtRvQBz/APFKP1kPxItlpGl9OP4kdBKnF74p9aTI3a0vq6f4Igc7U0jS+nHtRh1tKUvpx7Udd8Uo/V0/wR9xdGhBboQXVFIDgK2kM+LGc/QhOfsRiyoX1X5u1rvPTJKmvzNPuPTElwRUDzuz5IXk5J1pQpx6YRes36zr7LRfNxSzuNqAIYUcEiiXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//Z"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"data:image/jpeg;base64,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"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"data:image/jpeg;base64,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"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://miro.medium.com/v2/resize:fit:1358/1*Ua74MpSgPav0rlKBmI8aqQ.jpeg"
+            }
+           ],
+          "featured": true
+
+  
+       },
+   
+       {
+          "id":"fvbnht",
+           "brand":"Apple",
+           "name":"Apple Watch Series 6 ",
+           "category":"Watch",
+           "colors":[
+                 "#000",
+                 "#fff",
+                 "#b50508",
+                 "#105202"
+           ],
+        "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+          "price": 3200.19,
+          "shipping":"true",
+      "stock":"4",
+      "stars":"4",
+      "reviews":"24",
+          "image": "https://www.mymac.dz/wp-content/uploads/2021/01/watch-series-6-boitier-en-acier-inoxydable-or-bracelet-sport-vert-de-chypre.jpg",
+          "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"https://www.mymac.dz/wp-content/uploads/2021/01/watch-series-6-boitier-en-acier-inoxydable-or-bracelet-sport-vert-de-chypre.jpg"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"https://www.mymac.dz/wp-content/uploads/2021/01/apple-watch-series-6-boitier-en-aluminium-argent-bracelet-sport-blanc.jpg"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"https://media.ldlc.com/r1600/ld/products/00/05/72/18/LD0005721886_1.jpg"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://www.mymac.dz/wp-content/uploads/2017/06/apple-watch-series-6-boitier-en-aluminium-gris-sideral-bracelet-sport-noir.jpg"
+            }
+           ],
+          "featured": true
+
+  
+       },
+       {
+        "id":"m,bderth",
+         "brand":"HP",
+         "name":"HP Laptop 15",
+         "category":"Laptop",
+         "colors":[
+            "#e3071d",
+               "#000",
+               "#fff",
+             "#22D3EF"
+
+         ],
+      "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+        "price": 3740.00,
+        "shipping":"true",
+      "stock":"4",
+      "stars":"4",
+      "reviews":"24",
+        "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/561563/1.jpg?3013",
+        "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/561563/1.jpg?3013"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"https://dz.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/85/5734/2.jpg?7986"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"https://premicecomputer.com/wp-content/uploads/2022/03/laptop-i3.png"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://compuscience.com.eg/4682-pdt_771/hp-15-da3003ne-core-i3-1005g1-4gb-1tb-intel-graphics-156-hd-dvd-dos-blue.jpg"
+            }
+           ],
+        "featured": true
+
+  
+     },
+  
+     {
+      "id":"pouyrde",
+       "brand":"Samsung",
+       "name":"Samsung Galaxy Z Flip",
+       "category":"Smartphone",
+       "colors":[
+            "#f0a3cd",
+            "#d5fac0",
+
+             "#000",
+             "#a503fc"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price":4000.00,
+      "shipping":"true",
+      "stock":"4",
+      "stars":"4",
+      "reviews":"24",
+      "image": "https://961souq.com/cdn/shop/files/Samsung-Galaxy-Z-Flip-5-Black-4_grande.jpg?v=1690791154",
+      "images":[
+            {
+                  "id":"randomid-1",
+                  "url":"https://961souq.com/cdn/shop/files/Samsung-Galaxy-Z-Flip-5-Black-4_grande.jpg?v=1690791154"
+            },
+
+            {
+                  "id":"randomid-2",
+                  "url":"https://images.samsung.com/is/image/samsung/p6pim/eg/2307/gallery/eg-galaxy-z-flip5-f731-sm-f731blgamea-537222293?$ORIGIN_PNG$?$450_450_PNG$"
+            },
+
+            {
+                  "id":"randomid-3",
+                  "url":"https://www.irobustec.co.za/cdn/shop/files/sm_f731_zflip5_tabletopl30back_graphite_230511_ecommerce_8fd9_71635f72-ab41-4cf0-b08f-7f9c9fafd814.png?v=1694382677"
+            },
+
+            {
+                  "id":"randomid-4",
+                  "url":"https://cdn.dxomark.com/wp-content/uploads/medias/post-47183/galaxy-z-flip-by-samsung.png"
+            }
+           ],
+      "featured": true
+
+  
+   },
+
+   
+   {
+      "id":"teqaopm224v47",
+       "brand":"Apple",
+       "name":"iPad Pro 12.9 ",
+       "category":"iPad",
+       "colors":[
+             "#000",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 2740.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://vmart.pk/wp-content/uploads/2020/03/Apple-iPad-Pro-11-Space-Grey-Main.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://vmart.pk/wp-content/uploads/2020/03/Apple-iPad-Pro-11-Space-Grey-Main.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.jbhifi.com.au/cdn/shop/products/505078-Product-0-I-637852887177772750.jpg?v=1649655989"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://i.etsystatic.com/26059596/r/il/1739db/3858424414/il_570xN.3858424414_kblg.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://micromagma.ma/media/k2/items/cache/e84ec87f15dcc0ea491d4bb9e6b133bd_XL.jpg"
+
+        }
+       ],
+     
+       "featured": true
+      
+      
+   },
+
+   {
+      "id":"zdebohu4dc",
+       "brand":"Samsung",
+       "name":"Smsung Digital Camera ",
+       "category":"Camera",
+       "colors":[
+             "#d6d2d4",
+             "#0a0a38",
+             "#e3071d",
+             "#f0a3cd"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 2200.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://cdn.homeshopping.pk/product_images/c/870/10__95666_zoom.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://cdn.homeshopping.pk/product_images/c/870/10__95666_zoom.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.iris.ma/10424-listing/appareil-photo-samsung-es95-162mp-5x.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.tunisianet.com.tn/10331-large/samsung-st93-rouge.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://media.flixcar.com/f360cdn/Samsung-253360154-in_EC-ES95ZZBDBIN_538_Dynamic_pink-zoom.jpg"
+        }
+       ],
+     
+       "featured": true
+      
+      
+   },
+
+   {
+      "id":"zsszj586mi$$c",
+       "brand":"Samsung",
+       "name":"Samsung Headphone",
+       "category":"Headphone",
+       "colors":[
+            "#fff",
+             "#000",
+             "#e3071d",
+             "#22D3EF"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1240.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://image-us.samsung.com/SamsungUS/pim/migration/mobile/mobile-accessories/phones/eo-pn900bwegus/Pdpdefault-eo-pn900bwegus-600x600-C1-052016.jpg?$product-details-jpg$",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/mobile/mobile-accessories/phones/eo-pn900bwegus/Pdpdefault-eo-pn900bwegus-600x600-C1-052016.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/mobile/mobile-accessories/phones/eo-pn900bbegus/Pdpdefault-eo-pn900bbegus-600x600-C1-052016.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/mobile/mobile-accessories/phones/eo-pn900bregus/Pdpdefault-eo-pn900bregus-600x600-C1-052016.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/mobile/mobile-accessories/phones/eo-pn900blegus/Pdpdefault-eo-pn900blegus-600x600-C1-052016.jpg?$product-details-jpg$"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"zdp!!8$c",
+       "brand":"Samsung",
+       "name":"Galaxy Tab A 8.0" ,
+       "category":"Tablet",
+       "colors":[
+             "#000",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 2200.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://image-us.samsung.com/SamsungUS/home/mobile/tablets/pdp/sm-t380nzkexar/01-wifi-t380-tab-a2-8-blk-leaning-left.jpg?$product-details-jpg$",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://image-us.samsung.com/SamsungUS/home/mobile/tablets/pdp/sm-t380nzkexar/01-wifi-t380-tab-a2-8-blk-leaning-left.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://image-us.samsung.com/SamsungUS/home/mobile/tablets/pdp/galaxy-tablet-a-8-0-inch-16gb-(new)-silver-and-black/silver-gallery/01-wifi_t380_tab_a2_8_sv_leaning_left.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://image-us.samsung.com/SamsungUS/home/mobile/tablets/pdp/galaxy-tablet-a-8-0-inch-16gb-(new)-silver-and-black/silver-gallery/03-wifi_t380_tab_a2_8_sv_v_back.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://image-us.samsung.com/SamsungUS/home/mobile/tablets/pdp/sm-t380nzkexar/03-wifi-t380-tab-a2-8-blk-v-back.jpg?$product-details-jpg$"
+        }
+       ]
+     
+      
+      
+   },
+
+
+
+   {
+      "id":"5!!msz$dc",
+       "brand":"Samsung",
+       "name":"Galaxy Tab S9",
+       "category":"Tablet",
+       "colors":[
+             "#000",
+             "#fff",
+             "#f0a3cd",
+             "#0a0a38"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1440.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://m.media-amazon.com/images/I/71HXzfSx3eL.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://m.media-amazon.com/images/I/71HXzfSx3eL.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://m.media-amazon.com/images/I/71wf0FpPBcL.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://ae01.alicdn.com/kf/Sd2c13e5e5d5b4cf3a5bf3c96d3fa8a28v/For-Samsung-Galaxy-Tab-S9-S8-S7-FE-Plus-12-4-inch-Case-With-Pencil-Holder.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRC1353o9G8G3bd5szfF3VnUB7i6h8XAOt9c1KNgqyhOEOTrfOq2u9NL0azlm4X3vUpE&usqp=CAU"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"z!!fre59sdc",
+       "brand":"Samsung",
+       "name":"Samsung Galaxy Watch 5 ",
+       "category":"Watch",
+       "colors":[
+             "#000",
+             "#d6d2d4",
+             "#f0a3cd",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 800.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.technopolis.bg/medias/sys_master/h6b/ha6/27747574415390.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.technopolis.bg/medias/sys_master/h6b/ha6/27747574415390.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://m.media-amazon.com/images/I/61MQsr9LgwL.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://images.tokopedia.net/img/cache/700/VqbcmM/2022/9/9/906b0410-60f3-4588-84eb-84c49f01e9bd.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.custommacbd.com/cdn/shop/products/GalaxyWatch5-silver-custom-mac-bd.jpg?v=1661494308"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"zsdc!!45skl",
+       "brand":"Samsung",
+       "name":"Galaxy Watch 4 Classic",
+       "category":"Watch",
+       "colors":[
+             "#000",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 950.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_86318752?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_86318752?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_86329141?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_86329157?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_86318756?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720"
+        }
+       ]
+     
+      
+      
+   },
+
+
+   {
+      "id":"zsdc§§f2",
+       "brand":"Fitbit",
+       "name":"Fitbit 4 - Smartwatch ",
+       "category":"Watch",
+       "colors":[
+            "#22D3EF",
+            "#f0a3cd",
+             "#8f0d06",
+             "#000"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 920.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://m.media-amazon.com/images/I/61OEuoqFqYL.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://m.media-amazon.com/images/I/61OEuoqFqYL.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.adorama.com/images/Large/FB523RGRWUS.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKimCN-eMwUUygJhlF0NLS5yJdaQq-rddW7fPilfn_Bb2F5iI9m54sY30xFRafdAGgHe-H_6RU6_e7fGX_Y2bbmqtasChr04iJJsmX8XoDFEHhrSJi7AYOo_41YMCNGJQV4A6M6eax7aiHbV5mj4_PIUuTezYnM3d-qDFhzL-JTb6WcH2-cT_YqM41kg/s800/fitbit-versa-4-ph-1.png"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://m.media-amazon.com/images/I/51oRClVQwBL.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+
+  
+
+
+   {
+      "id":"zsd89yqghjc",
+       "brand":"Lg",
+       "name":"Lg Velvet 5",
+       "category":"Smartphone",
+       "colors":[
+            "#000",
+            "#105202",
+
+            "#fff",
+            "#e3071d"
+
+
+
+            
+           
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1240.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://sosukeblog.com/wp-content/uploads/2020/07/20200702_001.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://sosukeblog.com/wp-content/uploads/2020/07/20200702_001.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/LG_Velvet_Aurora_Green_version.jpg/1200px-LG_Velvet_Aurora_Green_version.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2020/04/wp-15880449931032050025446450996092.jpg?resize=973%2C1024&ssl=1"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://fonezone.me/cdn/shop/products/RED_d244e905-46ef-4779-b919-f2aa29ac2ffe.jpg?v=1640861058"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"z8ow0sdc",
+       "brand":"Samsung",
+       "name":"Smart Watch Series 7 ",
+       "category":"Watch",
+       "colors":[
+             "#000",
+             "#d9a94a",
+             "#4a240d"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1100.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/66f79abd-f81e-4ede-9534-d511d76e917b/md05800909-large01-jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/66f79abd-f81e-4ede-9534-d511d76e917b/md05800909-large01-jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://ugra.ru/pic-www.lg.com/us/images/smart-watches/md05800949/gallery/medium01.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://cdn.lesnumeriques.com/optim/produits/35/24417/lg-watch-urbane_378cab4c4c230a51__450_400.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://i.pinimg.com/736x/7d/21/48/7d21486eaeaec7f21ada8246d1d47e81.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"zsdcv4h57em",
+       "brand":"Nike",
+       "name":" Wireless Earbuds",
+       "category":"Earbuds",
+       "colors":[
+            "#22D3EF",
+
+            "#fff",
+            "#000",
+            "#e3071d"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1320.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/pdp/product-carousel/tidal-blue/pc-fit-pro-tidal-blue-case-closed-floating.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/pdp/product-carousel/tidal-blue/pc-fit-pro-tidal-blue-case-closed-floating.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://webobjects2.cdw.com/is/image/CDW/6614553?$product-main$"
+
+        },
+
+        {
+              "id":"randomid-3",
+            "url":"https://www.eweki.it/media/catalog/product/cache/8fca2aba8201eeecc34d3e260931c174/M/B/MBOX000016897.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+             "url":"https://sadabahaar.pk/wp-content/uploads/2022/04/4-scaled.jpg"
+        }
+       ]
+     
+      
+      
+   },
+   {
+      "id":"uytr125sdc",
+       "brand":"Lg",
+       "name":"Smart Watch Series 7 ",
+       "category":"Watch",
+       "colors":[
+            "#22D3EF",
+            "#fff",
+            "#000",
+            "#e3071d"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 660.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.lg.com/fr/images/moniteurs/md06161380/gallery/1100-01.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.lg.com/fr/images/moniteurs/md06161380/gallery/1100-01.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.lg.com/fr/images/moniteurs/md06161380/gallery/MNT-34WL500-Gallery-Thumbnail-02.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.lg.com/fr/images/moniteurs/md06161380/gallery/MNT-34WL500-Gallery-Thumbnail-03.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.lg.com/fr/images/moniteurs/md06161380/gallery/MNT-34WL500-Gallery-Thumbnail-05.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+     {
+      "id":"zshbk4kk4",
+       "brand":"Dell",
+       "name":"Dell Laptop",
+       "category":"Laptop",
+       "colors":[
+            "#0A0A38",
+            "#f0a3cd",
+"#e30",
+
+"#000"
+
+          
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3240.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://m.media-amazon.com/images/I/61qBIy0KWhL.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://m.media-amazon.com/images/I/61qBIy0KWhL.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://s13emagst.akamaized.net/products/16255/16254646/images/res_ae8fc837a80ecd2c59c4c84f163fdb4a.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/l/a/laptop735919_1_optimizer.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://5.imimg.com/data5/UY/CU/MY-11673038/dell-laptop.jpeg"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"zshbk47",
+       "brand":"Apple",
+       "name":"Apple Laptop",
+       "category":"Laptop",
+       "colors":[
+            "#f0a3cd",
+
+            "#fff",
+             "#e30",
+            "#000"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 5000.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://i.etsystatic.com/26059596/r/il/966db8/4212534313/il_570xN.4212534313_apeg.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://i.etsystatic.com/26059596/r/il/966db8/4212534313/il_570xN.4212534313_apeg.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://5.imimg.com/data5/AC/TF/MY-49552276/apple-laptop.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://i.pinimg.com/736x/95/6a/f7/956af7f8dfc3aa3fd5694b65ff20d538.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HPAW2?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1596222074000"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"zsjh45ml87dc",
+       "brand":"Apple",
+       "name":"Apple Earbuds",
+       "category":"Earbuds",
+       "colors":[
+
+            "#fff",
+            "#000"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 440.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://lzd-img-global.slatic.net/g/p/03bfc230516c86a5131cbf1bda6b9819.jpg_720x720q80.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"ssdfr54c",
+       "brand":"Apple",
+       "name":"Apple AirPods Max",
+       "category":"AirPods",
+       "colors":[
+            "#22D3EF",
+
+            "#fff",
+            "#000",
+            "#e3071d"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 740.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://media.ldlc.com/r1600/ld/products/00/05/76/08/LD0005760805_1.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://media.ldlc.com/r1600/ld/products/00/05/76/08/LD0005760805_1.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011_FMT_WHH?wid=607&hei=556&fmt=jpeg&qlt=90&.v=1633623988000"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://img.kytary.com/eshop_fr/stredni_v4x/na/637454444623130000/6385471a/64810528/apple-airpods-max-space-gray.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://dcmallio.vtexassets.com/arquivos/ids/326877651/AIRPODSM0004.jpg?v=638283184624830000"
+        }
+       ]
+
+   },
+
+   {
+      "id":"zs8u3kldc",
+       "brand":"Apple",
+       "name":"Apple iPhone 13 Pro Max",
+       "category":"Smartphone",
+       "colors":[
+            "#22D3EF",
+
+            "#d6d2d4",
+            "#f0a3cd",
+
+            "#e3071d"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 6540.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://dxbyzx5id4chj.cloudfront.net/fit-in/700x700/filters:fill(fff)/pub/media/catalog/product/0/b/0b97e6d2_4eaf_4b8e_90af_21bf31ca5768_4fe8.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://dxbyzx5id4chj.cloudfront.net/fit-in/700x700/filters:fill(fff)/pub/media/catalog/product/0/b/0b97e6d2_4eaf_4b8e_90af_21bf31ca5768_4fe8.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://dxbyzx5id4chj.cloudfront.net/fit-in/700x700/filters:fill(fff)/pub/media/catalog/product/f/c/fcae8b84_38f7_4d5b_9305_7b1419f76fa6_50ac.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.elkjop.no/image/dv_web_D180001002838548/361939/iphone-13-pro-5g-smartphone-128gb-gull--pdp_zoom-3000--pdp_main-540.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.istore.com.tn/3067-medium_default/iphone-13-256-go.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"zs7894hgfzdc",
+       "brand":"Apple",
+       "name":"Apple iPhone 14 Pro Max",
+       "category":"Smartphone",
+       "colors":[
+            "#bd98f5",
+            "#0a0a38",
+            "#f0a3cd",
+             "#214524"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 5140.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://m.media-amazon.com/images/I/519tLXCeDRL.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://m.media-amazon.com/images/I/519tLXCeDRL.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://lcdn.altex.ro/resize/media/catalog/product/A/p/2bd48d28d1c32adea0e55139a4e6434a/Apple-iPhone-12-5G-Blue_2.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://cdn.compudemano.com/wp-content/uploads/2021/09/apple-iphone-13-pro-oro.png"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://i.ebayimg.com/images/g/8QsAAOSwkfFiKDFN/s-l1200.webp"
+        }
+       ]
+
+   },
+
+   {
+      "id":"zgfd147c",
+       "brand":"Apple",
+       "name":"Apple iMac 24",
+       "category":"iMac",
+       "colors":[
+             "#000",
+             "#fff",
+             "#ffd103",
+            "#f0a3cd"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3840.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://5.imimg.com/data5/RR/JK/MY-43957876/apple-27-inch-imac-pro-with-retina-5k-display-late-2017-500x500.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://5.imimg.com/data5/RR/JK/MY-43957876/apple-27-inch-imac-pro-with-retina-5k-display-late-2017-500x500.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://pc4you.pro/20996-thickbox_default/apple-imac-27-retina-5k-a1419-emc-3070-i5-8go-1to-imac183-2017-grade-b-unite-centrale.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://cdn.homecrux.com/wp-content/uploads/2016/05/Goldgenie-24K-27-inch-iMac_4.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.artcomputer.ch/media/catalog/product/cache/1c093750e115fe62758b6e1402f83830/i/m/imac_24-in_orange_4-port_pdp_image_position-1__wwen_2.jpeg"
+        }
+       ]
+
+   },
+
+   {
+      "id":"zsd478lkc",
+       "brand":"Samsung",
+       "name":"Samsung Galaxy A04 ",
+       "category":"Smartphone",
+       "colors":[
+            "#f0a3cd",
+            "#fff",
+            "#214524",
+            "#bd98f5",
+            "#0a0a38"
+          
+             
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 4790.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://dz.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/66/2105/1.jpg?0939",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://dz.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/66/2105/1.jpg?0939"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://pimcdn.sharafdg.com/cdn-cgi/image/width=600,height=600,fit=pad/images/S200793951_1?1696261558"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://tech101.com.ph/wp-content/uploads/2023/02/Samsung-a04-02-300x300.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.aganetinfo.com/4850-large_default/smartphone-samsung-galaxy-a04.jpg"
+        }
+       ]  
+   },
+
+   {
+      "id":"zhbgfddc",
+       "brand":"Samsung",
+       "name":"Samsung Galaxy A54 ",
+       "category":"Smartphone",
+       "colors":[
+            "#d5fac0",
+             "#000",
+             "#bd98f5",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 4540.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://webstar-electro.com/documents/document_service_13774648_632_5_1984245108.JPG",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://webstar-electro.com/documents/document_service_13774648_632_5_1984245108.JPG"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://equiposlibres.pe/wp-content/uploads/2023/03/OKK.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.telstra.com.au/content/dam/tcom/devices/mobile/mhdwhst-a54/awesomeviolet/landscape-samsung-galaxya54-awesomeviolet-03-900x1200.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.incehesap.com/resim/icerik/647eec9738b2d.jpeg"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"zsvfds",
+       "brand":"Samsung",
+       "name":"Samsung SmartCam",
+       "category":"Camera",
+       "colors":[
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3760.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://image-us.samsung.com/SamsungUS/pim/migration/smart-home/home-monitoring/cameras/snh-e6411bn/Pdpdefault-snh-e6411bn-600x600-C1-052016.jpg?$product-details-jpg$",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/smart-home/home-monitoring/cameras/snh-e6411bn/Pdpdefault-snh-e6411bn-600x600-C1-052016.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://image-us.samsung.com/SamsungUS/pim/migration/smart-home/home-monitoring/cameras/snh-p6410bn/Pdpdefault-snh-p6410bn-600x600-C1-052016.jpg?$product-details-jpg$"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://i.pcmag.com/imagery/reviews/056oVsjQ2T9ck3w7XUzl0NQ-1.fit_scale.size_760x427.v1569473475.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://cdn11.bigcommerce.com/s-zbabt7ht4y/images/stencil/608x608/products/42075/64051/samsung-SNH-E6440BN-additional-2__81768.1547993159.jpg?c=2"
+        }
+       ]
+
+   },
+
+   {
+      "id":"zsd222gc",
+       "brand":"Ezviz",
+       "name":"Ezviz Camera",
+       "category":"Camera",
+       "colors":[
+            "#fff",
+             "#000"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3620.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.courtsmammouth.mu/94497-large_default/ezviz-4mp-night-vision-camera-ip66-cs-c3w-4mp.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.courtsmammouth.mu/94497-large_default/ezviz-4mp-night-vision-camera-ip66-cs-c3w-4mp.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.liberotech.it/media/product/bc0/ezviz-cs-cv246-b0-3b2wfr-hikvision-ezviz-c6c-ez360-cs-cv246-b0-3b2wfr-mini-network-pt-dome-ip-cam-wi-fi-full-hd-2mpx-audio-slot-sd-p2p-656.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://cdn.myshoptet.com/usr/www.jirno.eu/user/shop/big/4233879_ezviz-h3c-2mp.jpg?64e96f6d"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://m.media-amazon.com/images/I/214gnkciqbL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+        }
+       ]
+     
+      
+      
+   },
+
+   {
+      "id":"z78kjhg2dc",
+       "brand":"Lg",
+       "name":"Lg Security Camera",
+       "category":"Camera",
+       "colors":[
+             "#000",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 5140.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://m.media-amazon.com/images/I/51t0GsVLvnL.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://m.media-amazon.com/images/I/51t0GsVLvnL.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.lg.com/global/business/images/security/network-products/md00020450/gallery/medium01.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://www.lg.com/global/business/images/security/network-products/md00020454/gallery/medium01.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://www.lg.com/au/images/security/l2104-dp.aausllb/gallery/medium01.jpg"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"zsd7j12tc",
+       "brand":"Samsung",
+       "name":"Samsung Tab Galaxy S7",
+       "category":"Tablet",
+       "colors":[
+             "#000",
+             "#fff"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 2140.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://districtelectricals.co.uk/media/catalog/product/cache/74410db72e85939a8d768a8330b94249/s/7/s7_tab_bronze_1.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://districtelectricals.co.uk/media/catalog/product/cache/74410db72e85939a8d768a8330b94249/s/7/s7_tab_bronze_1.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://m.media-amazon.com/images/I/81yyW8lEPKL.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://gooshiato.com/Statics/Products/gop-5678/s7-black.webp"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"1mksdc",
+       "brand":"Xoami",
+       "name":"Xaomi Smart Watch ",
+       "category":"Watch",
+       "colors":[
+            "#e07e22",
+            "#a4edd1",
+             "#000",
+             "#f7e2dc"
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3200.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.syntech.co.za/wp-content/uploads/2022/10/BHR6202GL_wr_01a.jpg",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.syntech.co.za/wp-content/uploads/2022/10/BHR6202GL_wr_01a.jpg"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://www.pbtech.co.nz/imgprod/W/T/WTAMIX40796__1.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://i0.wp.com/acdtech.mu/wp-content/uploads/2021/09/Xiaomi-Mi-Smart-Band-6-001.png?fit=720%2C720&ssl=1"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://img.gkbcdn.com/p/2022-05-27/xiaomi-mi-band-7-blue-c6f671-1653647599646._w500_p1_.jpg"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"zww52sdc",
+       "brand":"Samsung",
+       "name":"Samsung Galaxy A14",
+       "category":"Smartphone",
+       "colors":[
+                 "#d5fac0",
+             "#fff",
+             "#5d275e",
+             "#000"
+
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 3220.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://samsungmobilepress.com/file/C89B78B0C0CDCF2D160B8C67780B79E72A75A6B2C13FB45FB64F28AF9FD824451855E0C839242345A7FC7D2B924CF26B37D2F781DA54FC2F72360369E4B2168EC27D39E568C92485732A5895359AC77AFB46BB0DE5D79E21E178CBC78063ED049B52398C195C703E7CE430F0EA7D695ECB931DD9D5947F74F679F6906DA2BE55",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://samsungmobilepress.com/file/C89B78B0C0CDCF2D160B8C67780B79E72A75A6B2C13FB45FB64F28AF9FD824451855E0C839242345A7FC7D2B924CF26B37D2F781DA54FC2F72360369E4B2168EC27D39E568C92485732A5895359AC77AFB46BB0DE5D79E21E178CBC78063ED049B52398C195C703E7CE430F0EA7D695ECB931DD9D5947F74F679F6906DA2BE55"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://olcha.uz/image/400x400/products/cwH48BmMhCpebNn6GZBvH4OXsNMnLCRfSFqNxiPDEveKNw9WIFoUEK3Ae2AP.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://phoneslab.net/morocco/wp-content/uploads/sites/17/2023/03/samsung-galaxy-a14-4g.jpg"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"data:image/jpeg;base64,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"
+        }
+       ]
+     
+   },
+
+   {
+      "id":"zsd77vcc",
+       "brand":"Belkin",
+       "name":"Belkin Earbuds",
+       "category":"Earbuds",
+       "colors":[
+             "#000",
+             "#fff",
+             "#f7e2dc",
+            "#0a0a38"
+             
+       ],
+    "description":"Lorem ipsum dolor sit amet. Et dolor voluptatibus   sint necessitatibus. Est repudiandae facere aut quia necessitatibus non rerum eveniet est voluptatibus rerum non soluta sequi id tempora labore.Aut voluptates similique et exercitationem nihil est numquam magni quo magnam dolorum. Est eveniet voluptas ea quia illo vel officiis",
+      "price": 1540.00,
+      "shipping":"true",
+  "stock":"4",
+  "stars":"4",
+  "reviews":"24",
+      "image": "https://www.belkin.com/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw8212f66f/images/hi-res/6/107152486_SAP115_BLK_FPK_JY_FIN.png",
+      "images":[
+        {
+              "id":"randomid-1",
+              "url":"https://www.belkin.com/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw8212f66f/images/hi-res/6/107152486_SAP115_BLK_FPK_JY_FIN.png"
+        },
+
+        {
+              "id":"randomid-2",
+              "url":"https://m.media-amazon.com/images/I/51o7dmrNErL.jpg"
+        },
+
+        {
+              "id":"randomid-3",
+              "url":"https://service.pcconnection.com/images/inhouse/DF022336-A6FC-42D0-84BC-5F2194452C88.jpg?interpolation=lanczos-none&downsize=800%3A*"
+        },
+
+        {
+              "id":"randomid-4",
+              "url":"https://aynalfahad.com/cdn/shop/products/AUC005_Blu_Belkin_SOUNDFORM_Play_TrueWirelessEarbuds_Angle_Web.jpg?v=1658928307"
+        }
+       ]
+
+   }
+ ]}
